@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #FCFFBF;
+    margin: 20px;
+}
+
+.input {
+    background-color: pink;
+    justify-content: space-around;
+}
+
+button {
+    background-color: pink;
+}
